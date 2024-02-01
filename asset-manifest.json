@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jam/static/css/main.6271623a.css",
-    "main.js": "/jam/static/js/main.e79a690f.js",
+    "main.css": "/jam/static/css/main.5d4d45c4.css",
+    "main.js": "/jam/static/js/main.2bede0e9.js",
     "static/js/787.b2e1b36e.chunk.js": "/jam/static/js/787.b2e1b36e.chunk.js",
     "static/media/bliss bites.png": "/jam/static/media/bliss bites.da8f9dee5b438ce10f16.png",
     "static/media/gbet winner.png": "/jam/static/media/gbet winner.eefd839f1b0d110f9d66.png",
@@ -27,6 +27,7 @@
     "static/media/back trees.png": "/jam/static/media/back trees.1958b435a2bf63625857.png",
     "static/media/viet landing page.png": "/jam/static/media/viet landing page.abcd24989507bcec8de2.png",
     "static/media/mail.jpg": "/jam/static/media/mail.f50ed6eb363f51a5658b.jpg",
+    "static/media/sunIcon.png": "/jam/static/media/sunIcon.d6190798f4ef588f629a.png",
     "static/media/network.jpg": "/jam/static/media/network.0a0abfea65ebcfa274ef.jpg",
     "static/media/quizzical.png": "/jam/static/media/quizzical.7ca3f7bc6418eb8504f2.png",
     "static/media/wiki.jpg": "/jam/static/media/wiki.e8e9a6422cf7df6ff0be.jpg",
@@ -35,6 +36,7 @@
     "static/media/thumbtack-yellow.png": "/jam/static/media/thumbtack-yellow.d0941926ca5e30ac7350.png",
     "static/media/notes.png": "/jam/static/media/notes.fe0a8e4a203f7084846f.png",
     "static/media/land.png": "/jam/static/media/land.947dee38b9d95358975f.png",
+    "static/media/moon.png": "/jam/static/media/moon.016e7a70dd45482aface.png",
     "static/media/react.png": "/jam/static/media/react.eb840dcf3caa227a9241.png",
     "static/media/Picture1.jpg": "/jam/static/media/Picture1.ad6a1f8c8804039c5be2.jpg",
     "static/media/mountains.png": "/jam/static/media/mountains.ca9ad7d829a4067a88b1.png",
@@ -42,12 +44,12 @@
     "static/media/clouds.png": "/jam/static/media/clouds.185f7293df64152e4f4e.png",
     "static/media/logo.svg": "/jam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jam/index.html",
-    "main.6271623a.css.map": "/jam/static/css/main.6271623a.css.map",
-    "main.e79a690f.js.map": "/jam/static/js/main.e79a690f.js.map",
+    "main.5d4d45c4.css.map": "/jam/static/css/main.5d4d45c4.css.map",
+    "main.2bede0e9.js.map": "/jam/static/js/main.2bede0e9.js.map",
     "787.b2e1b36e.chunk.js.map": "/jam/static/js/787.b2e1b36e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6271623a.css",
-    "static/js/main.e79a690f.js"
+    "static/css/main.5d4d45c4.css",
+    "static/js/main.2bede0e9.js"
   ]
 }
